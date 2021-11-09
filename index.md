@@ -6,4 +6,5 @@
 * Astralacal
 * el jarry
 * asd
-*asdasdx
+* asdasdx
+* Larr plotter y los commt sd ela merte
